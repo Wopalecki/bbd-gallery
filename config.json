@@ -1,13 +1,14 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Brussels Breweries Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
-  "download-photos": "copy",
+  "photo-download": "copy",
+  "embed-exif": true,
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Brussels Breweries Documentation",
   "usage-stats": false
 }
